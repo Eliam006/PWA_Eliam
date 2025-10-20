@@ -1,7 +1,8 @@
 {
     "name": "Mi PWA de Gestión de Tareas",
     "short_name": "Gestor PWA",
-    "start_url": "./",
+    "start_url": "./index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#1A282C",
     "theme_color": "#4A90E2",
@@ -19,3 +20,4 @@
       }
     ]
   }
+  
